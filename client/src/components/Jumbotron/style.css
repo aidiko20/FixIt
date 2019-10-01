@@ -1,0 +1,11 @@
+.jumbotron {
+    text-align: center;
+    background-image: url(http://ibx.ca/wp-content/uploads/2018/10/general-contracting.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    color:rgb(4, 48, 90);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
+    font-stretch: semi-expanded;
+}
